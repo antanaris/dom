@@ -1,0 +1,4 @@
+Url					ТИЦ		Индекс Я	Linkpad In
+koroleva-photo.ru	10		32			12
+ksenia-tour.ru		10		68			1
+mbdou20-kam.ru		10		30			2
